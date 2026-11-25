@@ -27,3 +27,6 @@ parking slots using STM32.
 In Progress
 ## Wokwi link
 [https://wokwi.com/projects/481393071192337409]
+
+## Report Link
+[file:///C:/Users/Gayatri/Downloads/SYNKOC_Smart_Parking_Internship_Report.pdf]
